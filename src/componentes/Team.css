@@ -1,0 +1,9 @@
+.team{
+    width: 300px;
+    border-radius: 20px;
+    background-color: rgb(234, 0, 255);
+    box-shadow: 2px 2px 5px cornflowerblue;
+    padding: 10px;
+    text-align: center;
+    border: 2px rgb(112, 59, 40);
+}
